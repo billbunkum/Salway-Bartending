@@ -1,0 +1,18 @@
+# GENERAL
+node_modules/
+src/
+
+# SASS
+.sass-cache/
+materialize/
+
+# FLASK STUFF (if it exists)
+__pycache__
+*.pyc
+db.sqlite3
+*.sqlite3
+npm-debug.log
+Procfile
+main.js
+requirements.js
+r
