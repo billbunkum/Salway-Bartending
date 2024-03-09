@@ -1,16 +1,18 @@
-# Salway Bartending  
+# Hurst Bartending  
 
 > Private Cocktail Bartending  
 
 ## Purpose  
 
-This website serves as the official landing point for _Salway Bartending_.  
+This website serves as the official landing point for _Hurst Bartending_.  
 
 ## Tools  
 
-  - SASS  
-  - Materialize CSS  
-  - ReactJS  
+  - NextJS 
+	- SCSS ???
+	- Compass ???
+	- Liveserver (local testing)
+	- yarn
 
 ## Contact  
 
