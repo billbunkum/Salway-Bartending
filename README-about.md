@@ -1,10 +1,10 @@
-# Hurst Bartending  
+# Darkeyes Bartending Official 
 
 > Private Cocktail Bartending  
 
 ## Purpose  
 
-This website serves as the official landing point for _Hurst Bartending_.  
+This website serves as the official landing point for _Darkeyes Bartending_.  
 
 ## Tools  
 
